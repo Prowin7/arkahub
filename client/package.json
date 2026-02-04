@@ -1,0 +1,17 @@
+{
+    "name": "energygrid-client",
+    "version": "1.0.0",
+    "description": "Client application for EnergyGrid Data Aggregator",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "keywords": [
+        "energygrid",
+        "aggregator",
+        "mock-api",
+        "rate-limiter"
+    ],
+    "author": "Praveen",
+    "license": "MIT"
+}
